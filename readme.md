@@ -1,2 +1,6 @@
-Éder da Silva Amorim
-Info 3A
+# Trabalho de Programação e técnicas de programação.
+
+ ### Tecnologias usuadas:
+ - JavaScript
+ - Html
+
